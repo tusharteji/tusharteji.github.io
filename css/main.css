@@ -1785,7 +1785,7 @@ ul#nav li.current a { color: #F06000; }
 	overflow: hidden;
 }
 #projects .folio-item img {
-	vertical-align: middle;
+    vertical-align: middle;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
@@ -1887,7 +1887,7 @@ ul#nav li.current a { color: #F06000; }
 	position: relative;
 }
 .popup-modal img {
-	vertical-align: bottom;
+    vertical-align: bottom;
 }
 .popup-modal .description-box {
 	padding: 1.8rem 3.6rem 3rem;
