@@ -1786,6 +1786,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #projects .folio-item img {
     vertical-align: middle;
+    border: 7px solid white;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
